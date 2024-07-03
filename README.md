@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kabudence</h1>
-<h2 align="center">FullStack Developer</h2>
 <p align="center">
   <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="600"/>
 </p>
 
 <div align="center" style="margin-bottom: 20px;">
+  <h2 align="center">FullStack Developer</h2>
+
   <p>💬 Ask me about <strong>React, Vue.js, .Net, Spring, Next.js</strong></p>
   <p>🔭 I’m currently a <strong>Software Engineering student at UPC</strong></p>
   <p>🤝 I’m looking for help with <strong>work at team</strong></p>
