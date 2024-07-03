@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kabudence</h1>
-<h3 align="center">FullStack Developer</h3>
+<h2 align="center">FullStack Developer</h2>
 <p align="center">
   <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="600"/>
 </p>
 <div align="center">
 
-- 💬 Ask me about React, Vue.js, .Net, Spring, Next.js
+* 💬 Ask me about React, Vue.js, .Net, Spring, Next.js
 - 🔭 I’m currently a Software Engineering student at UPC
 - 🤝 I’m looking for help with work at team
 
@@ -44,10 +44,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">DevOps:</h3>
-<p align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+
 
 </div>
 
