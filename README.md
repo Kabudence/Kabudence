@@ -3,8 +3,8 @@ Memoria actualizada
 Sure! Here's a more polished and visually appealing version of your GitHub profile README:
 
 <h1 align="center">Hi 👋, I'm Kabudence</h1>
-<h2 align="center">FullStack Developer</h2>
 
+<h2 align="center">FullStack Developer</h2>
 <p align="center">
   <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="600"/>
 </p>
@@ -13,8 +13,6 @@ Sure! Here's a more polished and visually appealing version of your GitHub profi
   <p>🔭 I’m currently a <strong>Software Engineering student at UPC</strong></p>
   <p>🤝 I’m looking for help with <strong>work at team</strong></p>
 </div>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="//" target="blank">
