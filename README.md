@@ -11,15 +11,7 @@
   <p>🤝 I’m looking for help with <strong>work at team</strong></p>
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="//" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="//" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+
 
 <hr style="border: none; border-top: 0.5px solid #ccc; margin: 20px 0;">
 
@@ -86,3 +78,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 </p>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="//" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="//" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
+
+
