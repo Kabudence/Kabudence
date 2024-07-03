@@ -11,10 +11,6 @@
   <p>🤝 I’m looking for help with <strong>work at team</strong></p>
 </div>
 
-
-
-<hr style="border: none; border-top: 0.5px solid #ccc; margin: 20px 0;">
-
 <h3 align="center">Front-end Development:</h3>
 <p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
