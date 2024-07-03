@@ -12,7 +12,8 @@ Sure! Here's a more polished and visually appealing version of your GitHub profi
   <p>🔭 I’m currently a <strong>Software Engineering student at UPC</strong></p>
   <p>🤝 I’m looking for help with <strong>work at team</strong></p>
 </div>
----
+<hr>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
