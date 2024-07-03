@@ -11,8 +11,6 @@
   <p>🤝 I’m looking for help with <strong>work at team</strong></p>
 </div>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="//" target="blank">
