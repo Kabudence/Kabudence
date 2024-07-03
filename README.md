@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Kabudence</h1>
 <h2 align="center">FullStack Developer</h2>
 <p align="center">
@@ -11,6 +10,8 @@
   <p>🤝 I’m looking for help with <strong>work at team</strong></p>
 </div>
 
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="//" target="blank">
@@ -20,6 +21,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
 <h3 align="center">Front-end Development:</h3>
 <p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -32,6 +36,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
 </p>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
 <h3 align="center">Backend Development:</h3>
 <p align="center"> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -44,6 +51,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
 </p>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
 <h3 align="center">Databases:</h3>
 <p align="center"> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -56,6 +66,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 </p>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
 <h3 align="center">Programming Languages:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
