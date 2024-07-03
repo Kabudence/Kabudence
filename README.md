@@ -10,7 +10,7 @@
   <p>🔭 I’m currently a <strong>Software Engineering student at UPC</strong></p>
   <p>🤝 I’m looking for help with <strong>work at team</strong></p>
 </div>  
-          <h2 align="center">Skils </h2>
+      
 
 
 <h3 align="center">Front-end Development:</h3>
