@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+<hr style="border: none; border-top: 1px solid #ccc; margin: 10px 0;">
 
 <h3 align="center">Front-end Development:</h3>
 <p align="center"> 
