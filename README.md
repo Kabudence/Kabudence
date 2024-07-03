@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kabudence</h1>
+<h1 align="center">I'm Kabudence </h1>
 <p align="center">
   <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="600"/>
 </p>
