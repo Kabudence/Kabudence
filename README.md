@@ -4,7 +4,7 @@
 </p>
 
 <div align="center" style="margin-bottom: 20px;">
-  <h2 align="center">FullStack Developer</h2>
+  <h3 align="center">FullStack Developer</h3>
 
   <p>💬 Ask me about <strong>React, Vue.js, .Net, Spring, Next.js</strong></p>
   <p>🔭 I’m currently a <strong>Software Engineering student at UPC</strong></p>
