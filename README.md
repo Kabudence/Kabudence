@@ -5,7 +5,7 @@
 </p>
 <div align="center">
 
-* 💬 Ask me about React, Vue.js, .Net, Spring, Next.js
+- 💬 Ask me about React, Vue.js, .Net, Spring, Next.js
 - 🔭 I’m currently a Software Engineering student at UPC
 - 🤝 I’m looking for help with work at team
 
