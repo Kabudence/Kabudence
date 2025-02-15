@@ -2,6 +2,7 @@
   <img src="https://kabudence.github.io/typing.svg" alt="Typing Effect"/>
 </h1>
 
+
 <p align="center">
   <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="500"/>
 </p>
