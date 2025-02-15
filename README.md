@@ -44,7 +44,10 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
   </a>
+  
 </p>
 
 <hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
