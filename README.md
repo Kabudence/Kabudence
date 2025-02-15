@@ -1,4 +1,4 @@
-<h1 align="center">I'm Kabudence </h1>
+<h1 align="center">I'm Kabudence</h1>
 <p align="center">
   <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="600"/>
 </p>
@@ -10,8 +10,19 @@
   <p>🔭 I’m currently a <strong>Software Engineering student at UPC</strong></p>
   <p>🤝 I’m looking for help with <strong>work at team</strong></p>
 </div>  
-      
 
+---
+<!-- Sección de estadísticas -->
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <!-- Tarjeta con estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical" alt="Kabudence's GitHub stats"/>
+</p>
+<p align="center">
+  <!-- Tarjeta de lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabudence&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+---
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center"> 
@@ -32,7 +43,7 @@
   </a>
 </p>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+---
 
 <h3 align="center">Backend Development:</h3>
 <p align="center"> 
@@ -43,14 +54,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  
 </p>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+---
 
 <h3 align="center">Databases:</h3>
 <p align="center"> 
@@ -65,7 +73,8 @@
   </a>
 </p>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+---
+
 <h3 align="center">Front-end Development:</h3>
 <p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -79,7 +88,8 @@
   </a> 
 </p>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="//" target="blank">
@@ -89,5 +99,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
-
-
