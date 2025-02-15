@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://tuusuario.github.io/typing-effect.gif" alt="Typing Effect"/>
+  <img src="https://kabudence.github.io/typing.svg" alt="Typing Effect"/>
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <!-- Sección de estadísticas -->
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical&cache_seconds=21600" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabudence&layout=compact&theme=radical&cache_seconds=21600" alt="Top Languages" width="48%">
 </p>
 
