@@ -15,8 +15,8 @@
 <!-- Sección de estadísticas -->
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <!-- Tarjeta con estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical" alt="Kabudence's GitHub stats"/>
+  <!-- Tarjeta con estadísticas generales (incluye TODOS los commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=21600" alt="Kabudence's GitHub stats"/>
 </p>
 <p align="center">
   <!-- Tarjeta de lenguajes más usados -->
