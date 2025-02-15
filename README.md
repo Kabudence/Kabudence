@@ -1,4 +1,6 @@
-<h1 align="center">I'm Kabudence</h1>
+<h1 align="center">
+  <img src="https://tuusuario.github.io/typing-effect.gif" alt="Typing Effect"/>
+</h1>
 <p align="center">
   <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="600"/>
 </p>
@@ -18,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=21600" alt="Kabudence's GitHub stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabudence&layout=compact&theme=radical&cache_seconds=21600" alt="Top Langs" width="48%">
 </p>
----
+
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center"> 
