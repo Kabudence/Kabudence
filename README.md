@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://kabudence.github.io/typing.svg?cache_bust=123" alt="Typing Effect"/>
+  <img src="https://img.shields.io/badge/Hi%2C%20I'm-Kabudence-blue?style=flat-square" alt="Hi, I'm Kabudence"/>
 </h1>
 
 
