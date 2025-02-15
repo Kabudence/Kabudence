@@ -15,12 +15,8 @@
 <!-- Sección de estadísticas -->
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <!-- Tarjeta con estadísticas generales (incluye TODOS los commits) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=21600" alt="Kabudence's GitHub stats"/>
-</p>
-<p align="center">
-  <!-- Tarjeta de lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabudence&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=21600" alt="Kabudence's GitHub stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabudence&layout=compact&theme=radical&cache_seconds=21600" alt="Top Langs" width="48%">
 </p>
 ---
 
