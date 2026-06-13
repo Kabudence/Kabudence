@@ -1,67 +1,171 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Hi%2C%20I'm-Kabudence-blue?style=flat-square" alt="Hi, I'm Kabudence"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kabudence;Full-Stack+Developer;Software+Engineering+Student;SAP+BTP+%7C+ABAP+%7C+UI5+%7C+CAP" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
-  <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="500"/>
+  <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="480"/>
 </p>
 
-<h3 align="center">Full-Stack Developer | Software Engineering Student</h3>
+<h3 align="center">
+  Full-Stack Developer | Software Engineering Student | SAP BTP Enthusiast
+</h3>
 
 <p align="center">
-  💬 <strong>Ask me about:</strong> React, Vue.js, .Net, Spring, Next.js <br>
-  🔭 <strong>Currently learning:</strong> Kotlin & Flutter <br>
-  🤝 <strong>Looking for:</strong> Team collaborations <br>
-</p>
-
----
-
-<!-- Sección de estadísticas -->
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical&cache_seconds=21600" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabudence&layout=compact&theme=radical&cache_seconds=21600" alt="Top Languages" width="48%">
+  <a href="https://github.com/Kabudence">
+    <img src="https://img.shields.io/github/followers/Kabudence?label=Followers&style=for-the-badge&color=2F81F7" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Kabudence&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2F81F7?style=for-the-badge" />
 </p>
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/></a>
-  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/></a>
+  Full-Stack Developer focused on building scalable, clean and business-oriented applications.
+  <br/>
+  Currently expanding my skills in mobile development, SAP BTP, ABAP, SAPUI5 and cloud-native architectures.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Ask me about</strong></td>
+    <td align="center">React, Vue.js, .NET, Spring, Next.js, SAPUI5, ABAP</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Currently learning</strong></td>
+    <td align="center">Kotlin, Flutter, SAP BTP, CAP, Fiori Elements</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Looking for</strong></td>
+    <td align="center">Team collaborations, SAP projects and full-stack opportunities</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabudence&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabudence&layout=compact&theme=radical&hide_border=true&cache_seconds=21600" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
-  <!-- Backend -->
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40"/></a>
-  <a href="https://www.microsoft.com/net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/></a>
-</p>
-
-<p align="center">
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/></a>
-</p>
-
-<p align="center">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/></a>
-  <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40"/></a>
-  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kabudence&theme=radical&hide_border=true" alt="GitHub Streak" width="70%">
 </p>
 
 ---
 
-<h3 align="center">Connect with Me</h3>
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Programming Languages</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-  <a href="https://twitter.com/tuusuario"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts,kotlin" />
+</p>
+
+<h3 align="center">Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+<h3 align="center">Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express" />
+</p>
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+<h3 align="center">Mobile Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
+</p>
+
+---
+
+<h2 align="center">SAP Ecosystem</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OData-0052CC?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HANA-1F70C1?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED9?style=for-the-badge&logo=cloudfoundry&logoColor=white" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>SAP BTP</strong></td>
+    <td align="center">Cloud Foundry, Destination Service, Connectivity, XSUAA, App Router</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>SAPUI5 / Fiori</strong></td>
+    <td align="center">MVC, XML Views, OData Models, Smart Controls, Fiori Elements</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>CAP</strong></td>
+    <td align="center">CDS, Services, Entities, Node.js runtime, OData exposure</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ABAP</strong></td>
+    <td align="center">Reports, ALV, CDS Views, Enhancements, BAPIs, Function Modules</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">Tools and Platforms</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,vscode,visualstudio,idea,eclipse" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20Business%20Application%20Studio-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">Current Focus</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Projects-React%20%7C%20Spring%20%7C%20.NET-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAP%20Development-UI5%20%7C%20CAP%20%7C%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Kotlin-purple?style=for-the-badge" />
+</p>
+
+---
+
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tuusuario">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:tuemail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Building software with clean code, scalable architecture and continuous learning.</strong>
 </p>
