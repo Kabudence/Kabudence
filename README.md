@@ -1,21 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kabudence;Full-Stack+Developer;Software+Engineering+Student;SAP+BTP+%7C+ABAP+%7C+UI5+%7C+CAP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Kabudence;Full-Stack+Developer;SAP+BTP+%26+ABAP+Consultant;UI5+%7C+CAP+%7C+Fiori+%7C+OData" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/sGnofa2.png" alt="Spiderman" width="480"/>
-</p>
-
 <h3 align="center">
-  Full-Stack Developer | Software Engineering Student | SAP BTP Enthusiast
+  Full-Stack Developer | SAP BTP & ABAP Consultant
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Kabudence">
-    <img src="https://img.shields.io/github/followers/Kabudence?label=Followers&style=for-the-badge&color=2F81F7" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Kabudence&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-2F81F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAP%20BTP%20%26%20ABAP-Consultant-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-7B2CBF?style=for-the-badge" />
 </p>
 
 ---
@@ -25,17 +19,17 @@
 <p align="center">
   Full-Stack Developer focused on building scalable, clean and business-oriented applications.
   <br/>
-  Currently expanding my skills in mobile development, SAP BTP, ABAP, SAPUI5 and cloud-native architectures.
+  Specialized in SAP BTP, ABAP, SAPUI5, CAP, Fiori and cloud-native development.
 </p>
 
 <table align="center">
   <tr>
     <td align="center"><strong>Ask me about</strong></td>
-    <td align="center">React, Vue.js, .NET, Spring, Next.js, SAPUI5, ABAP</td>
+    <td align="center">React, Vue.js, .NET, Spring, Next.js, SAPUI5, ABAP, CAP</td>
   </tr>
   <tr>
     <td align="center"><strong>Currently learning</strong></td>
-    <td align="center">Kotlin, Flutter, SAP BTP, CAP, Fiori Elements</td>
+    <td align="center">Kotlin, Flutter, SAP BTP, Fiori Elements, Cloud Foundry</td>
   </tr>
   <tr>
     <td align="center"><strong>Looking for</strong></td>
@@ -116,7 +110,7 @@
   </tr>
   <tr>
     <td align="center"><strong>CAP</strong></td>
-    <td align="center">CDS, Services, Entities, Node.js runtime, OData exposure</td>
+    <td align="center">CDS, Services, Entities, Node.js Runtime, OData Exposure</td>
   </tr>
   <tr>
     <td align="center"><strong>ABAP</strong></td>
@@ -144,7 +138,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Projects-React%20%7C%20Spring%20%7C%20.NET-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SAP%20Development-UI5%20%7C%20CAP%20%7C%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20Development-BTP%20%7C%20UI5%20%7C%20CAP%20%7C%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Kotlin-purple?style=for-the-badge" />
 </p>
 
@@ -156,9 +150,6 @@
   <a href="https://linkedin.com/in/tuusuario">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/tuusuario">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
   <a href="mailto:tuemail@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -167,5 +158,5 @@
 ---
 
 <p align="center">
-  <strong>Building software with clean code, scalable architecture and continuous learning.</strong>
+  <strong>Building clean, scalable and business-oriented software solutions.</strong>
 </p>
